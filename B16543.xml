@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of the forfeitures and penalties set and imposed on offences done contrary to the act of Parliament, for paving and cleansing the streets.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16543</idno><idno type="EEBO-CITATION">99885524</idno>
+  <idno type="VID">185220</idno>
+  <idno type="EEBO-PROQUEST">2248537246</idno>
+  
+            <idno type="STC">Wing A133A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.9[13]</idno>
+            <idno type="PROQUEST">ocm99885524</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885524e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16543)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185220)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:1[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of the forfeitures and penalties set and imposed on offences done contrary to the act of Parliament, for paving and cleansing the streets.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Date suggested by BL.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Street cleaning --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185220:1"/>
+            <pb facs="tcp:185220:1"/>
+            <head>An Abstract of the Forfeitures and Penalties set and imposed on Offences done contrary to the Act of Parliament, for <hi>Paving and Cleansing the Streets.</hi>
+            </head>
+            <p n="1">1. ALL House-keepers on every Wednesday and Saturday, are to Cleanse and Sweep the Streets, Lanes, <hi>&amp;c.</hi> before their respective Houses, Buildings and Walls, on the Penalty of iii <hi>s.</hi> and iv <hi>d.</hi> for every Default.</p>
+            <p n="2">2. No Person must presume to throw, cast or lay, or cause, permit, or suffer any Sea-Coal-Ashes, Dust, Dirt, Dung or Filth to be laid in any Street, Lane or Alley, on the Penalty of v <hi>s.</hi> for every Offence, nor be<g ref="char:EOLhyphen"/>fore the Houses or Walls of any other Person, nor before any Church or Church-yard, nor before any of their Majesties Pallaces or Buildings, nor into any Com<g ref="char:EOLhyphen"/>mon or Private Sewer, Sink, Vault or Water-course; but must keep the same in their respective Houses, until the Raker comes to carry away the same, on the Penalty of xx <hi>s.</hi> for every Offence.</p>
+            <p n="3">3. No Person shall hoop, wash or cleanse any Pipes, Barrels or other Vessels in the Streets, Lanes, Alleys, <hi>&amp;c.</hi> nor shall set out Dung, Rubbish or empty Coaches to make or mend, or rough Timber or Stone to be sawn or wrought in the Streets, <hi>&amp;c.</hi> on the Penalty of xx <hi>s.</hi> for every Offence.</p>
+            <p n="4">4. Every House-keeper is to keep the Pavement before his Door, so far as the Denter-Stone or middle of the Street, in good repair; and the Proprietors of all empty Houses are to do the like, so far as their Houses extend, on the Penalty of xx <hi>s.</hi> for every Perch or Rod, and xx <hi>s.</hi> for every Week it shall continue unrepaired. And the House-keepers and Proprietors of Houses, in all new Streets, which shall be ordered by the Sessions to be paved, shall Pave and Amend the same so far as their respective Houses extend, on pain to forfeit xl <hi>s.</hi> for every Perch they shall refuse to Pave and Amend.</p>
+            <p n="5">5. Every House-keeper whose House adjoyns to the Street, from <hi>Michaelmas</hi> to <hi>Ladyday,</hi> is to hang out on the outside of his House Lanthorn and Candle from the time it's Dark until Twelve of the Clock at Night (except such as use the Lamps of any sort to be placed at such distance as two Justices shall approve of) on the Penalty of Two Shillings for every Neglect.</p>
+            <p n="6">6. Every Truss of Hay from the last Day of <hi>August</hi> to the first Day of <hi>June,</hi> is to contain 56 pound Weight, and every Truss of new Hay from the first Day of <hi>June</hi> to the last Day of <hi>August,</hi> is to contain 60 pound Weight; and all Persons bringing or offering Hay to Sale, forfeit xviii <hi>d.</hi> for every Truss wanting of that Weight.</p>
+            <p n="7">7. No Person must stand with his Cart to sell Hay from <hi>Michaelmas</hi> to <hi>Lady<g ref="char:EOLhyphen"/>day,</hi> after Two of the Clock in the Afternoon, and from <hi>Ladyday</hi> to <hi>Michaelmas</hi> after Three of the Clock, on the Penalty of five Shillings for every Offence.</p>
+            <p n="8">8. The Wheels of every Cart, Carr, and Dray, used about the Streets, are to be six Inches in the Felleys, and are not to be wrought about with Iron; and no Cart, Carr, or Dray, is to be drawn with above two Horses, after they are up the Hills from the Water-side, on the Penalty of xl <hi>s.</hi>
+            </p>
+            <p n="9">9. No Person shall keep any Swine in any place where the Streets are paved, on the Penalty of forfeiting the same.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
